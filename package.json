@@ -1,6 +1,6 @@
 {
   "name": "pokeapi",
-  "homepage": "https://github.com/igream/pokeapi-react/",
+  "homepage": "https://igream.github.io/pokeapi-react/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
