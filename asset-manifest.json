@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/igream/pokeapi-react/static/css/main.e8385788.css",
-    "main.js": "/igream/pokeapi-react/static/js/main.88cc8fa7.js",
-    "static/media/busqueda.svg": "/igream/pokeapi-react/static/media/busqueda.bc4a9b45ee2fb3879a4fae89e7fea619.svg",
-    "index.html": "/igream/pokeapi-react/index.html",
-    "main.e8385788.css.map": "/igream/pokeapi-react/static/css/main.e8385788.css.map",
-    "main.88cc8fa7.js.map": "/igream/pokeapi-react/static/js/main.88cc8fa7.js.map"
+    "main.css": "/pokeapi-react/static/css/main.e8385788.css",
+    "main.js": "/pokeapi-react/static/js/main.79cf5ac6.js",
+    "static/media/busqueda.svg": "/pokeapi-react/static/media/busqueda.bc4a9b45ee2fb3879a4fae89e7fea619.svg",
+    "index.html": "/pokeapi-react/index.html",
+    "main.e8385788.css.map": "/pokeapi-react/static/css/main.e8385788.css.map",
+    "main.79cf5ac6.js.map": "/pokeapi-react/static/js/main.79cf5ac6.js.map"
   },
   "entrypoints": [
     "static/css/main.e8385788.css",
-    "static/js/main.88cc8fa7.js"
+    "static/js/main.79cf5ac6.js"
   ]
 }
