@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/igream/pokeapi-react/static/css/main.e8385788.css",
+    "main.js": "/igream/pokeapi-react/static/js/main.88cc8fa7.js",
+    "static/media/busqueda.svg": "/igream/pokeapi-react/static/media/busqueda.bc4a9b45ee2fb3879a4fae89e7fea619.svg",
+    "index.html": "/igream/pokeapi-react/index.html",
+    "main.e8385788.css.map": "/igream/pokeapi-react/static/css/main.e8385788.css.map",
+    "main.88cc8fa7.js.map": "/igream/pokeapi-react/static/js/main.88cc8fa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8385788.css",
+    "static/js/main.88cc8fa7.js"
+  ]
+}
